@@ -8,6 +8,7 @@ for embedded Linux projects.
 
 You can build easily any Erlang and/or Elixir projects based on rebar2, rebar3, erlang.mk, mix and autotools.
 
+See the meta-erlang documentation [here](https://meta-erlang.github.io).
 <!--
 
 **Here are some ideas to get you started:**
